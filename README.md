@@ -5,14 +5,14 @@
 
 <ol>
 <li><b>Hand detection and Fingers counting</b></li>
-<h4>Contents :</h4>
+<h4><b>Contents :</b></h4>
 <ul>
 <li><b>hand.py</b> - Script for hand detection and fingers counting in a video.</li>
 <li><b>1.png, 2.png, 3.png, 4.png, 5.png are screenshots taken from the webcam video</b></li>
 </ul>
-
+<br/>
 <li><b>Sudoku Solver</b></li>
-<h4>Contents :</h4>
+<h4><b>Contents :</b></h4>
 <ul>
 <li><b>imageProcessing.py</b> Script to segement the image of sudoku square (<b>"imag.jpg"</b>) from original image (<b>"sudoku.jpg"</b>)</li>
 <li><b>imageToData.py</b> Script to make user mark correct labels (1-9) for numbers represented in image <b>"numbers2.png"</b>and <b>"numbers.png"</b> and storing the feature vectors of all the numbers (feature matrix) shown in the image in 2 text files, one for training set and other for test set.</li>
