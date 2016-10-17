@@ -1,17 +1,17 @@
 # OpenCV
 
 
-<h3>PROJECTS</h3> :
+<h3><u>PROJECTS</u></h3> :
 
 <ol>
-<li><b>Hand detection and Fingers counting</b></li>
+<li><b><u>Hand detection and Fingers counting</u></b></li>
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b>hand.py</b> - Script for hand detection and fingers counting in a video.</li>
 <li><b>1.png, 2.png, 3.png, 4.png, 5.png are screenshots taken from the webcam video</b></li>
 </ul>
 <br/>
-<li><b>Sudoku Solver</b></li>
+<li><b><u>Sudoku Solver</u></b></li>
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b>imageProcessing.py</b> Script to segement the image of sudoku square (<b>"imag.jpg"</b>) from original image (<b>"sudoku.jpg"</b>)</li>
