@@ -1,17 +1,17 @@
 # OpenCV
 
 
-<h3><u>PROJECTS</u></h3> :
+<h2 style="color: blue"><u>PROJECTS</u></h2> :
 
 <ol>
-<li><b><u>Hand detection and Fingers counting</u></b></li>
+<li style="color: green"><b><u>Hand detection and Fingers counting</u></b></li>
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b>hand.py</b> - Script for hand detection and fingers counting in a video.</li>
 <li><b>1.png, 2.png, 3.png, 4.png, 5.png</b> are screenshots taken from the webcam video</li>
 </ul>
 <br/>
-<li><b><u>Sudoku Solver</u></b></li>
+<li style="color: green"><b><u>Sudoku Solver</u></b></li>
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b>imageProcessing.py</b> Script to segement the image of sudoku square (<b>"imag.jpg"</b>) from original image (<b>"sudoku.jpg"</b>)</li>
@@ -21,4 +21,13 @@
 <li><b>sudoku.py</b> - Main part of project to recognize the numbers, but here accuracy came out to be 90% because numbers in actual sudoku have different font in comparison to the font in training set. And also KNN having many disadvantages of its own, expectedly does not perform well.</li>
 </ul>
 </ol>
+
+<br/>
+<h2 style="color: red">TODO - Sudoku Solver</h2>
+
+<ul>
+<li>Improve Accuracy for recognition either by training more and different fonts of training data or use different algorithm. Will try Artificial Neural Network model trained over MNIST dataset (hand written digits).</li>
+<li>Solve sudoku using backtracking algorithm.</li>
+</ul>
+
 
