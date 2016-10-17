@@ -8,7 +8,7 @@
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/handDetection/hand.py">hand.py</a></b> - Script for hand detection and fingers counting in a video.</li>
-<li><b>1.png, 2.png, 3.png, 4.png, 5.png</b> are screenshots taken from the webcam video</li>
+<li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/handDetection/1.png">1.png</a>, <a href="https://github.com/Shivam06/OpenCV/blob/master/handDetection/2.png">2.png</a>, <a href="https://github.com/Shivam06/OpenCV/blob/master/handDetection/3.png">3.png</a>, <a href="https://github.com/Shivam06/OpenCV/blob/master/handDetection/4.png">4.png</a>, <a href="https://github.com/Shivam06/OpenCV/blob/master/handDetection/5.png">5.png</a></b> are screenshots taken from the webcam video</li>
 </ul>
 <br/>
 <li style="color: green"><b><u>Sudoku Solver</u></b></li>
