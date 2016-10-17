@@ -8,7 +8,7 @@
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b>hand.py</b> - Script for hand detection and fingers counting in a video.</li>
-<li><b>1.png, 2.png, 3.png, 4.png, 5.png are screenshots taken from the webcam video</b></li>
+<li><b>1.png, 2.png, 3.png, 4.png, 5.png</b> are screenshots taken from the webcam video</li>
 </ul>
 <br/>
 <li><b><u>Sudoku Solver</u></b></li>
