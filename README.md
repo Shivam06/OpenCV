@@ -27,8 +27,9 @@
 
 <ul>
 <li>Improve Accuracy for recognition either by training more and different fonts of training data or use different algorithm. Will try <b>Artificial Neural Network (ANN)</b> model trained over MNIST dataset (hand written digits).</li>
-<li>Complete <b>sudoku.py</b></li>
+<li>Debug and complete <b>sudoku.py</b></li>
 <li>Solve sudoku using <b>backtracking algorithm</b>.</li>
+<li>Document all the codes.</li>
 </ul>
 
 
