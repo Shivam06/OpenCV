@@ -14,7 +14,7 @@
 <li style="color: green"><b><u>Sudoku Solver</u></b></li>
 <h4><b>Contents :</b></h4>
 <ul>
-<li><b>imageProcessing.py</b> Script to segement the image of sudoku square (<b>"imag.jpg"</b>) from original image (<b>"sudoku.jpg"</b>)</li>
+<li><b>imageProcessing.py</b> Script to segement the image of sudoku square <b>"imag.jpg"</b> from original image <b>"sudoku.jpg"</b></li>
 <li><b>imageToData.py</b> Script to make user mark correct labels (1-9) for numbers represented in image <b>"numbers2.png"</b>and <b>"numbers.png"</b> and storing the feature vectors of all the numbers (feature matrix) shown in the image in 2 text files, one for training set and other for test set.</li>
 <li><b>KNearestNeighbour.py</b> - Module containing KNN class which has been used in <b>main.py</b> to check the accuracy over test set after training the knn model over training data.</li>
 <li><b>main.py</b> - As mentioned above, just to examine performance of KNN model (10 nearest neighbor) over test set. And as expected it gave 100% accuracy because both training and test set have same font.</li>
