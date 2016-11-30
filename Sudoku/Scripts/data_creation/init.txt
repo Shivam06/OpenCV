@@ -1,1 +1,0 @@
-Scripts for crating training data and test data.

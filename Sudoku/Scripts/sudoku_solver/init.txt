@@ -1,1 +1,0 @@
-this directory contains script for solving sudoku
