@@ -1,0 +1,1 @@
+this directory contains all the images showing how sudoku was solved.
