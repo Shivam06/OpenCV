@@ -15,20 +15,11 @@
 <h4><b>Contents :</b></h4>
 <ul>
 <li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/image_processing/imageProc.py">imageProc.py</a></b> Script to segement the image of sudoku square from original image <b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Solving_sudoku_images/Original_image.jpg">"Original_image.jpg"</a></b></li>
-<li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/data_creation/sudoku_data.py">imageToData.py</a></b> Script to prompt user mark correct labels (1-9) for numbers shown in image. (Creation of training data and test data) <b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/numbers2.png">"numbers2.png"</a></b> and <b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/numbers.png">"numbers.png"</a></b> and storing the feature vectors of all the numbers (feature matrix) shown in the image in 2 text files, one for training set and other for test set.</li>
+<li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/data_creation/sudoku_data.py">imageToData.py</a></b> Script to prompt user to mark correct labels (1-9) for numbers shown in image. (Creation of training data and test data) <b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/numbers2.png">"numbers2.png"</a></b> and <b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/numbers.png">"numbers.png"</a></b> and storing the feature vectors of all the numbers (feature matrix) shown in the image in 2 text files, one for training set and other for test set.</li>
 <li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/OCR/miscellaneous_sudoku.py">miscellaneous sudoku.py</a></b> Module contains function for digit recognition which has been used in <b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/sudoku_main.py">sudoku_main.py</a></b>.
 <li><b><a href="https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/sudoku_main.py">sudoku_main.py</a></b> - Main Script of project to take an image of sudoku and solve it.</li>
+<li><b><a href = "https://github.com/Shivam06/OpenCV/blob/master/Sudoku/Scripts/sudoku_solver/solveSudoku2.py">"solveSudoku2.py"</a></b>uses Backtracking algorith to solve the sudoku once digits have been recognized, taken as a string of digits.</li>
 </ul>
 </ol>
-
-<br/>
-<h2 style="color: red">TODO - Sudoku Solver</h2>
-
-<ul>
-<li>Improve Accuracy for recognition either by training more and different fonts of training data or use different algorithm. Will try <b>Artificial Neural Network (ANN)</b> model trained over MNIST dataset (hand written digits).</li>
-<li>Debug and complete <b>sudoku.py</b></li>
-<li>Solve sudoku using <b>backtracking algorithm</b>.</li>
-<li>Document all the codes.</li>
-</ul>
 
 
