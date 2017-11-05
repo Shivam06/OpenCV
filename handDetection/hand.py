@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import os
 
-os.chdir("C:\Users\SHIVAM MAHAJAN\Desktop")
+#os.chdir("C:\Users\SHIVAM MAHAJAN\Desktop")
 def nothing(x):
     pass
 
@@ -68,7 +68,7 @@ while(1):
     font = cv2.FONT_HERSHEY_COMPLEX
     cv2.putText(frame,str(count+1),(100,100),font,1,(0,0,255),1)    # Outputting "count + 1"in "frame"and displaying the output.
     
-    out.write(frame)
+    #out.write(frame)                                                 # To save the video
     cv2.imshow('frame',frame)
     if cv2.waitKey(20) == 27:
         break
